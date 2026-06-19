@@ -1,0 +1,25 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "category_pages": 10,
+  "category_cards": 2000,
+  "category_detail_links": 2000,
+  "missing_baidu_pages": [],
+  "missing_player_sample_pages": [],
+  "logo_mismatch_sample_pages": [],
+  "image_files_in_package": [],
+  "source_urls": 20,
+  "category_counts": {
+    "欧美精选": 200,
+    "动作冒险": 200,
+    "科幻奇幻": 200,
+    "剧情佳片": 200,
+    "喜剧爱情": 200,
+    "悬疑惊悚": 200,
+    "动画亲子": 200,
+    "日韩热播": 200,
+    "国产剧集": 200,
+    "高分片单": 200
+  }
+}

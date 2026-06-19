@@ -1,0 +1,20 @@
+{
+  "site_title": "国产高分电视剧-高分剧集排行榜-精选内容持续更新",
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "m3u8_sources_detected": 20,
+  "category_distribution": {
+    "guochan-drama": 200,
+    "gaofen-movie": 200,
+    "urban-love": 200,
+    "suspense-crime": 200,
+    "action-fantasy": 200,
+    "animation": 200,
+    "variety": 200,
+    "family-life": 200,
+    "history-costume": 200,
+    "world-cinema": 200
+  },
+  "generated_at_utc": "2026-05-26T13:42:29Z"
+}
